@@ -1,0 +1,9 @@
+# project
+scrapy==2.0.1
+scrapyrt==0.11.0
+pymongo==3.10.1
+
+# vscode
+pylint==2.4.4
+black==19.10b0
+rope==0.16.0
